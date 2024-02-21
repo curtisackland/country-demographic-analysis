@@ -1,0 +1,24 @@
+CO2 Emission vs. Energy Use vs. Air Pollution
+USA,Sri Lanka,Egypt,Russia
+Report,Line Chart,Scatter Chart,Bar Chart
+Air Pollution vs. Forest Area
+Canada,USA,Sri Lanka,Egypt,Russia
+Report,Line Chart,Scatter Chart,Bar Chart
+Ratio of CO2 Emmisions and GDP per capita
+Canada,USA,Sri Lanka,Egypt,Russia
+Report,Line Chart,Scatter Chart,Bar Chart
+Avg. Forest Area
+Canada,USA,Sri Lanka,Egypt,Russia
+Report,Pie Chart
+Avg. Government Expenditure on Education
+Canada,USA,Sri Lanka,Egypt,Russia
+Report,Pie Chart
+Ratio of Hospital beds and Current Health Expenditure
+Canada,USA,Sri Lanka,Egypt,Russia
+Report,Line Chart,Scatter Chart,Bar Chart
+Current Health expenditure per capita vs. Infant Mortality Rate
+Canada,USA,Sri Lanka,Egypt,Russia
+Report,Line Chart,Scatter Chart,Bar Chart
+Ratio of Government Expenditure on Education vs. Current Health Expenditure
+Canada,USA,Sri Lanka,Egypt,Russia
+Report,Line Chart,Scatter Chart,Bar Chart
